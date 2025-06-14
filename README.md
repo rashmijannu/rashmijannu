@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 I'm a CSE undergrad at GRIET
 - 🔭 I’m currently working on ml/ai projects
 - 🌱 I’m currently learning CCNA programs
-- 👯 I’m looking to collaborate on open-source full-stack
+<!-- 👯 I’m looking to collaborate on open-source full-stack-->
 - ⚡ Fun fact: I once used Twilio to make an ESP32 talk to a fire station 🚨📞
 
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=rashmijannu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rashmijannu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijannu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rashmijannu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rashmijannu&icon=0&color=11)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
