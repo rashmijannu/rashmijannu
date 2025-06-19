@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 I'm a CSE undergrad at GRIET
 - 🔭 Currently working on ml/ai projects
 - 🌱 Learning and exploring CCNA programs
-<!-- 👯 I’m looking to collaborate on open-source full-stack-->
 - ⚡ Fun fact: I once used Twilio to make an ESP32 talk to a fire station 🚨📞
 
 
