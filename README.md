@@ -1,19 +1,12 @@
 ## Rashmi Chandana Jannu
 
-<!--
-**rashmijannu/rashmijannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-<!-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: -->
-- 😄 I'm a CSE undergrad at GRIET
-- 🔭 Currently working on ml/ai projects
-- 🌱 Learning and exploring CCNA programs
-- ⚡ Fun fact: I once used Twilio to make an ESP32 talk to a fire station 🚨📞
-
-
+<!--**rashmijannu/rashmijannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started:--><!-- 🤔 I’m looking for help with ...- 💬 Ask me about ...- 📫 How to reach me: ...- 😄Pronouns:>
+- 😄 Hi, I’m Rashmi Chandana Jannu,
+- 🔭 Pursuing B.Tech in Computer Science at GRIET, Hyderabad.
+- ⚙️ Built projects across AI, ML, full-stack development, networking, IoT, and cybersecurity.
+- ⚡ Gaining hands-on experience in data science and cloud computing. 
+- 🚨 Fun fact: I once used Twilio to make an ESP32 talk to a fire station.
+- 🌱 Interested in solving real-world problems through software development in impact-driven environments.
 <!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rashmi Chandana Jannu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rashmi Jannu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashmicjannu@gmail.com) -->
 
