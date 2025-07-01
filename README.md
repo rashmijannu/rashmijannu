@@ -1,6 +1,6 @@
 ## Rashmi Chandana Jannu
 
-<!--**rashmijannu/rashmijannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started:--><!-- 🤔 I’m looking for help with ...- 💬 Ask me about ...- 📫 How to reach me: ...- 😄Pronouns:>
+<!--**rashmijannu/rashmijannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started:-->
 - 😄 Hi, I’m Rashmi Chandana Jannu,
 - 🔭 Pursuing B.Tech in Computer Science at GRIET, Hyderabad.
 - ⚙️ Built projects across AI, ML, full-stack development, networking, IoT, and cybersecurity.
